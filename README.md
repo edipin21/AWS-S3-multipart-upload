@@ -66,8 +66,9 @@ Environment set up:
     node -v and npm -v    
 
 ** The program was run and tested on:
-  Macos, Windows 10
-
+  MacOS monterey whit intel and m2 chip 
+  Windows 10 ,11
+  
 
 That is it, you are ready to use the app!
 Enjoy :) 
