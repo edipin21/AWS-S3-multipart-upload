@@ -50,6 +50,7 @@ To test the code:
   fileSize = your file size in MB 
 
   ** Please round the file size value 
+  
   ** Please make sure that the file have not existed yet on S3
 
 _______________________________________________________________________________________________________________________________________________
