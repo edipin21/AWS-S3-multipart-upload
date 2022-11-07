@@ -23,7 +23,7 @@ For runinng the project:
     while running the program via the command line, run this command: 
     xattr -d com.apple.quarantine /PATH/TO/index.js
 
-Now the project is ready for use. 
+Now the project is ready to use. 
 To upload a file, run the command: 
 
 s3mpu mpu  ****filePath****  ****bucketName****
