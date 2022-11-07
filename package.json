@@ -1,0 +1,22 @@
+{
+  "name": "s3-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec --ui bdd"
+  },
+  "keywords": [
+  ],
+  "author": "Eddie Abramov",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1246.0",
+    "commander": "^9.4.1",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security"
+  },
+  "bin": {
+    "s3mpu": "./index.js"
+  }
+}
