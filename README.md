@@ -29,6 +29,7 @@ To upload a file, run the command:
 s3mpu mpu  ***filePath***  ***bucketName***
 
 filePath = your file path
+
 bucketName= your bucket name
 
 _______________________________________________________________________________________________________________________________________________
@@ -43,7 +44,9 @@ To test the code:
   s3mpu test  ***filePath*** ***bucketName*** ***fileSize***
 
   filePath = your file path
+  
   bucketName = your bucket name
+  
   fileSize = your file size in MB 
 
   ** Please round the file size value 
