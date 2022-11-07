@@ -26,7 +26,7 @@ For runinng the project:
 Now the project is ready for use. 
 To upload a file, run the command: 
 
-s3mpu mpu  ***filePath***  ***bucketName***
+s3mpu mpu  ****filePath****  ****bucketName****
 
 filePath = your file path
 
@@ -41,7 +41,7 @@ To test the code:
 
 2. Run the command:
 
-  s3mpu test  ***filePath*** ***bucketName*** ***fileSize***
+  s3mpu test  ****filePath**** ****bucketName**** ****fileSize****
 
   filePath = your file path
   
