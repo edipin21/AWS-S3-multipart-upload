@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 Project technologies:
 
-nodejs,npm and the programing language is java screipt.
+nodejs,npm and the programing language is javaScreipt.
 
 
 Environment set up:
